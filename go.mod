@@ -12,7 +12,7 @@ require (
 	github.com/lestrrat-go/iter v1.0.1
 	github.com/lestrrat-go/option v1.0.0
 	github.com/pkg/errors v0.9.1
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.7.2
 	golang.org/x/crypto v0.0.0-20201217014255-9d1352758620
 	golang.org/x/mod v0.4.1 // indirect
 	golang.org/x/tools v0.0.0-20210114065538-d78b04bdf963 // indirect
